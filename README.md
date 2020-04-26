@@ -1,2 +1,2 @@
-# AI_Practicals
-Contains all my AI practicals
+# Python_Practicals
+Contains all my pyhton practicals
