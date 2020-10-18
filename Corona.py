@@ -46,7 +46,9 @@ for row in stats :
   
 table = tabulate(stats, headers=SHORT_HEADERS) 
 print(table) 
-print("\n\n---------------------------------------------------------------------------------\n\n")
+print()
+print("-"*80)
+print()
 print("Total cases : ",total_cases)
 print("Total cured :",total_cured)
 print("Total deaths :",total_deaths)  
